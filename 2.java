@@ -9,8 +9,8 @@ public class Solution {
     int b = scanner.nextInt();
     int c = scanner.nextInt();
 
-    System.out.println(42);
-    System.out.println(100);
-    System.out.println(125);
+    System.out.println(a);
+    System.out.println(b);
+    System.out.println(c);
     }
 }
